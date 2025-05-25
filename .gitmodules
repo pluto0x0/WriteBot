@@ -1,0 +1,3 @@
+[submodule "writebot-ui"]
+	path = writebot-ui
+	url = git@github.com:pluto0x0/writebot-ui.git
